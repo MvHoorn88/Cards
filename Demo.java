@@ -11,6 +11,7 @@ public class Demo {
 	}
 	static void testFunctionality() {
 	}
+}
 	class Card {
 		String suit;
 		int value;
@@ -39,4 +40,3 @@ public class Demo {
 	}
 	class Player {
 	}
-}
